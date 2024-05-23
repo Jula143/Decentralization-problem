@@ -137,20 +137,6 @@ $$
 
 <img src="images/model.png" alt="Image" width="40%" height="40%">
 
-## Solution details
-<img src="images/details.png" alt="Image" width="60%" height="60%">
-
-Model found multiple solutions with the Best Integer values improving progressively.
-- First Solution: Best Integer = £23,300
-- Second Solution: Best Integer = £8,900
-- Third Solution: Best Integer = -£8,100
-- Fourth Solution: Best Integer = -£14,900
-
-<img src="images/solution_pool_plot.png" alt="Image" width="50%" height="50%">
-
-Progressed from -£67,500 to -£34,333 with multiple cut applications.
-
-Best Integer Value stabilized at -£14,900 early in the process, indicating the solution's proximity to optimality.
 
 ## Solution
 <img src="images/solution.png" alt="Image" width="40%" height="40%">
@@ -167,3 +153,19 @@ If all departments had remained in London, communication costs would have been �
 The relocation of departments results in a net yearly benefit of £14,900.
 
 <img src="images/plot.png" alt="Image" width="40%" height="40%">
+
+
+## Solution details
+<img src="images/details.png" alt="Image" width="60%" height="60%">
+
+Model found multiple solutions with the Best Integer values improving progressively.
+- First Solution: Best Integer = £23,300
+- Second Solution: Best Integer = £8,900
+- Third Solution: Best Integer = -£8,100
+- Fourth Solution: Best Integer = -£14,900
+
+<img src="images/solution_pool_plot.png" alt="Image" width="50%" height="50%">
+
+Progressed from -£67,500 to -£34,333 with multiple cut applications.
+
+Best Integer Value stabilized at -£14,900 early in the process, indicating the solution's proximity to optimality.
