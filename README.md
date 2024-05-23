@@ -131,3 +131,37 @@ $$
    ```bash
    python decentralization.py
    ```
+
+
+## Model
+
+<img src="images/model.png" alt="Image" width="40%" height="40%">
+
+## Solution details
+<img src="images/details.png" alt="Image" width="60%" height="60%">
+
+Model found multiple solutions with the Best Integer values improving progressively.
+- First Solution: Best Integer = £23,300
+- Second Solution: Best Integer = £8,900
+- Third Solution: Best Integer = -£8,100
+- Fourth Solution: Best Integer = -£14,900
+
+Progressed from -£67,500 to -£34,333 with multiple cut applications.
+
+Best Integer Value stabilized at -£14,900 early in the process, indicating the solution's proximity to optimality.
+
+## Solution
+<img src="images/solution.png" alt="Image" width="40%" height="40%">
+
+New department locations:
+- Bristol: Departments A and D
+- Brighton: Departments B, C, and E
+
+Total Yearly Benefit: £80,000 <br>
+Communication Costs: £65,100
+
+If all departments had remained in London, communication costs would have been £78,000.
+
+The relocation of departments results in a net yearly benefit of £14,900.
+
+<img src="images/plot.png" alt="Image" width="40%" height="40%">
