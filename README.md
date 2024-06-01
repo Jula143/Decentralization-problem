@@ -166,6 +166,4 @@ Model found multiple solutions with the Best Integer values improving progressiv
 
 <img src="images/solution_pool_plot.png" alt="Image" width="50%" height="50%">
 
-Progressed from -£67,500 to -£34,333 with multiple cut applications.
-
 Best Integer Value stabilized at -£14,900 early in the process, indicating the solution's proximity to optimality.
